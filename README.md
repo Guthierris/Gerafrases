@@ -1,4 +1,4 @@
-# ProjetoGerador
+# GeraFrases
 O programa tem como função gerar frases aleatórias pré-definidas armazenadas em um vetor.
 Para funcionar o programa você precisa emular o codigo no android studio, e utilizar de um android connectado usb ou em ambiente virtual.
 #
